@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">FavDish</string>
+    <string name="title_all_dishes">All Dishes</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="title_random_dish">Random Dish</string>
+    <string name="add_dish">Add dish</string>
+    <string name="dish_title">Title</string>
+    <string name="dish_type">Type</string>
+    <string name="dish_category">Category</string>
+    <string name="dish_ingredients">Ingredients</string>
+    <string name="dish_cooking_time">Cooking Time(Minutes)</string>
+    <string name="btn_add_dish">Add Dish</string>
+    <string name="direction_to_cook">Direction To Cook</string>
+    <string name="title_select_image_action">Select Image Action</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+
+    <string name="et_select_dish_type">SELECT DISH TYPE</string>
+    <string name="et_select_dish_category">SELECT DISH CATEGORY</string>
+    <string name="et_select_dish_cookingTime">SELECT DISH COOKING TIME</string>
+    <string name="err_no_image_selected">Select an image</string>
+    <string name="err_no_title">Enter image</string>
+    <string name="err_no_type">Enter Type</string>
+    <string name="err_no_category">Enter Category</string>
+    <string name="err_no_ingredient">Enter Ingredient</string>
+    <string name="err_no_cooking_time">Enter Cooking Time</string>
+    <string name="err_no_cooking_direction">Enter Cooking Direction</string>
+    <string name="no_dish_added_yet">No Dishes Added Yet!!</string>
+    <string name="image_description">Dish Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_estimated_cooking_time">The approx time required to cook the dish in %1$s minutes.</string>
+    <string name="msg_added_to_favorite">You have added the dish to your favorite</string>
+    <string name="msg_removed_from_favorite">You removed the dish to your favorite</string>
+    <string name="action_edit_dish">EDIT DISH</string>
+    <string name="action_delete_dish">DELETE DISH</string>
+    <string name="title_edit_dish">Edit Dish</string>
+    <string name="title_add_dish">Add Dish</string>
+    <string name="lbl_update_dish">Update Dish</string>
+
+    <string name="title_delete_dish">Delete Dish</string>
+    <string name="msg_delete_dish_dialog">Are you sure you want to delete %1$s</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_no">No</string>
+    <string name="action_filter_dishes">Filter Dishes</string>
+    <string name="title_select_item_to_filter">SELECT ITEM TO FILTER</string>
+    <string name="msg_already_added_to_favorites">You have already added the dish to favorites</string>
+    <string name="please_wait">Please wait!</string>
+    <string name="action_share_dish">Share Dish</string>
+    <string name="notification_title">Checkout new dish recipes</string>
+    <string name="notification_subtitle">Tap for more details</string>
+</resources>

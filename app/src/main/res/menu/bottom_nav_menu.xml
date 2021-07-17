@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/navigation_all_dishes"
+        android:icon="@drawable/ic_all_dishes"
+        android:title="@string/title_all_dishes"
+        tools:layout="@layout/fragment_all_dishes"/>
+
+    <item
+        android:id="@+id/navigation_favorite_dish"
+        android:icon="@drawable/ic_favorite_dish"
+        android:title="@string/title_favorite"
+        tools:layout="@layout/fragment_favorite_dish"/>
+
+    <item
+        android:id="@+id/navigation_random_dishes"
+        android:icon="@drawable/ic_random_dish"
+        android:title="@string/title_random_dish"
+        tools:layout="@layout/fragment_random_dishes"/>
+
+</menu>
